@@ -1,4 +1,4 @@
-package com.example.sqliteexample;
+package com.example.russianrun;
 
 import org.junit.Test;
 
